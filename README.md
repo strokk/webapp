@@ -34,4 +34,18 @@ CSS  All classes and ID’s created in CSS must be accompanied by comments descr
 JavaScript & D3.JS All blocks of code in JavaScript and D3 must include a comment describing its purpose and functionality 
  
 
+----------------------------------------------------------------------------------------------------------------------------------
+
+### Instructions:
+
+1. First open cmd and go to folder location "Project_G00364695" and type python -m http.server
+
+2. Once that is running, go to your browser and type the url: localhost:8000
+
+
+**Once you are in the login page, note that for a successfull login you will have to type the following:
+Email: root@root.com
+Password: root1234
+
+Otherwise you will get an error message
 
