@@ -1,0 +1,10 @@
+1. First open cmd and go to folder location "Project_G00364695" and type python -m http.server
+
+2. Once that is running, go to your browser and type the url: localhost:8000
+
+
+**Once you are in the login page, note that for be able to sign in you will have to type the following:
+Email: root@root.com
+Password: root1234
+
+Otherwise you will get an error message
